@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f6f6f4"/>
+  <text x="256" y="350" text-anchor="middle" font-family="'Golos Text', Arial, Helvetica, sans-serif" font-size="280" font-weight="700" letter-spacing="-8"><tspan fill="#141518">Р</tspan><tspan fill="#1f45c4">у</tspan></text>
+  <path d="M300 118 L344 74" stroke="#1f45c4" stroke-width="34" stroke-linecap="square"/>
+</svg>
